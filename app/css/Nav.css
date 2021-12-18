@@ -1,0 +1,56 @@
+.navbar {
+  padding: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  transition: background-color 0.25s ease;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  color: white;
+}
+
+.navbar:hover {
+  background-color: white;
+  color: black;
+}
+
+.navbar .logo-title {
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}
+
+.navbar .logo-title:hover {
+  color: var(--main-color);
+}
+
+.navbar ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin-right: 20px;
+}
+
+.navbar li {
+  list-style-type: none;
+}
+
+.navbar li:hover {
+  background-color: var(--main-color);
+  color: white;
+}
+
+.navbar a {
+  display: block;
+  padding: 1rem;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+  text-transform: uppercase;
+}
