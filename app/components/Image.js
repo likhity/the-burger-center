@@ -5,7 +5,7 @@ import Reveal from "react-reveal/Reveal";
 export default class Image extends React.Component {
   render() {
     return (
-      <Reveal effect="fade-in-up">
+      <Reveal effect={this.props.effect}>
         <div>
           <img
             src={this.props.src}
@@ -20,6 +20,10 @@ export default class Image extends React.Component {
     );
   }
 }
+
+Image.defaultProps = {
+  effect: "fade-in-up",
+};
 
 Image.propTypes = {
   src: PropTypes.string.isRequired,

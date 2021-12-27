@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 269.988 269.988"
+   style="enable-background:new 0 0 269.988 269.988; display: block;"
+   xml:space="preserve"
+   sodipodi:docname="burger-bread.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata41"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs39"><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath59"><rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.07500005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect61"
+       width="310.63379"
+       height="46.514175"
+       x="-20.628025"
+       y="120.73817"
+       ry="0.199315" /></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath65"><path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.11178,117.09793 258.45703,112.24428 246.32289,13.55334 -12.13413,28.51877 V 288.99814 L 301.73543,269.58353 278.27611,176.55518 -6.876,174.12836 -3.23576,121.54712 Z"
+       id="path67"
+       inkscape:connector-curvature="0" /></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath83"><path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -5.90839,111.79269 262.6604,111.38822 254.97545,20.38222 -3.481564,12.69727 -30.176655,262.6604 283.28843,260.23357 259.42464,164.37393 -8.739688,166.80075 Z"
+       id="path85"
+       inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview37"
+   showgrid="false"
+   inkscape:zoom="2.4723646"
+   inkscape:cx="123.01072"
+   inkscape:cy="145.22534"
+   inkscape:window-x="923"
+   inkscape:window-y="2151"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<g
+   id="g6">
+</g>
+<g
+   id="g8">
+</g>
+<g
+   id="g10">
+</g>
+<g
+   id="g12">
+</g>
+<g
+   id="g14">
+</g>
+<g
+   id="g16">
+</g>
+<g
+   id="g18">
+</g>
+<g
+   id="g20">
+</g>
+<g
+   id="g22">
+</g>
+<g
+   id="g24">
+</g>
+<g
+   id="g26">
+</g>
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+<g
+   id="g55"
+   clip-path="url(#clipPath59)" class="patty">
+	<path
+   inkscape:connector-curvature="0"
+   d="m 64.994,239.913 h 140 c 19.299,0 35,-15.701 35,-35 v -14.977 h -210 v 14.977 c 0,19.299 15.701,35 35,35 z"
+   id="path49" />
+	<path
+   inkscape:connector-curvature="0"
+   d="m 14.76,159.925 c 0.078,-0.001 0.155,-0.012 0.234,-0.012 h 240 c 0.079,0 0.155,0.011 0.234,0.012 8.158,-0.124 14.76,-6.804 14.76,-15.01 0,-8.259 -6.724,-14.979 -14.988,-14.979 H 14.987 C 6.723,129.937 0,136.656 0,144.915 c 0,8.206 6.602,14.887 14.76,15.01 z"
+   id="path51" />
+	<path
+   inkscape:connector-curvature="0"
+   d="M 211.067,53.404 C 190.957,38.36 163.983,30.075 135.115,30.075 106.244,30.075 79.267,38.36 59.156,53.405 41.989,66.246 31.861,82.61 30.223,99.937 H 240 C 238.361,82.61 228.234,66.246 211.067,53.404 Z"
+   id="path53" />
+</g>
+<g
+class="bread"
+   transform="translate(14.76,4.9869965)"
+   id="g8-5"
+   clip-path="url(#clipPath83)"><path
+     inkscape:connector-curvature="0"
+     d="m 7.247,184.641 c 4.138,34.561 44.133,37.452 84.742,37.452 h 59.067 c 36.972,0 80.01,-4.245 84.684,-37.348 l 0.805,-5.699 H 6.577 Z"
+     id="path2" /><rect
+     x="0"
+     width="243"
+     y="123.271"
+     height="31.667"
+     id="rect4" /><path
+     inkscape:connector-curvature="0"
+     d="M 235.982,93.67 C 232.553,46.818 168.462,20.907 125.471,20.907 h -7.942 C 74.539,20.907 10.447,46.818 7.017,93.67 L 6.623,99.035 H 236.374 Z M 77.332,64.891 c -7.81,7.81 -22.223,6.061 -22.223,6.061 0,0 -1.75,-14.413 6.061,-22.223 7.81,-7.811 22.223,-6.061 22.223,-6.061 0,0 1.749,14.412 -6.061,22.223 z M 121.5,82.5 c 0,0 -11.429,-8.954 -11.429,-20 0,-11.046 11.429,-20 11.429,-20 0,0 11.429,8.954 11.429,20 0,11.046 -11.429,20 -11.429,20 z m 66.392,-11.548 c 0,0 -14.413,1.75 -22.223,-6.061 -7.81,-7.811 -6.061,-22.223 -6.061,-22.223 0,0 14.413,-1.75 22.223,6.061 7.811,7.81 6.061,22.223 6.061,22.223 z"
+     id="path6" /></g></svg>
