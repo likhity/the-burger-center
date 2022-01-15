@@ -16,7 +16,7 @@ module.exports = {
       { test: /\.svg$/i, use: ["@svgr/webpack"] },
     ],
   },
-  mode: "production",
+  mode: "development",
   plugins: [
     new HTMLWebpackPlugin({
       template: "app/index.html",

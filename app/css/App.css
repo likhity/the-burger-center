@@ -18,13 +18,15 @@ html {
 
 body {
   margin: 0;
+  width: 100vw;
 }
 
 #root {
-  width: 100%;
+  width: 100vw;
 }
 
 .full-screen-header {
+  width: 100vw;
   height: 100vh;
   background-image: url(https://images.pexels.com/photos/4253703/pexels-photo-4253703.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
   background-size: cover;
@@ -70,6 +72,7 @@ body {
   border: 3px solid white;
   margin: 2rem;
   padding: 3rem;
+  text-align: center;
 }
 
 .btn:hover {
@@ -330,7 +333,7 @@ body {
 }
 
 .burger-bread-animation .burger-bread_svg__patty {
-  animation: slide-away-to-left 1s ease 2s forwards;
+  animation: slide-away-to-left 1s ease 0.5s forwards;
 }
 
 @keyframes slide-away-to-left {
@@ -344,6 +347,10 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
+}
+
+.mouth-watering-svg {
+  width: auto;
 }
 
 .burger-bread_svg__patty {
@@ -413,4 +420,84 @@ body {
 
 .footer-nav a:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 1050px) {
+  .section.about-us {
+    flex-direction: column;
+  }
+
+  .content-title.about-us {
+    font-size: 2.5rem;
+  }
+
+  .section.served-count {
+    flex-direction: column;
+  }
+
+  .section.served-count .accent-block-vertical-white-thin {
+    display: none;
+  }
+
+  .section.success {
+    flex-direction: column;
+  }
+
+  .section-title {
+    font-size: 4rem;
+  }
+
+  .section.order-now .section-title {
+    font-size: 3rem;
+  }
+
+  .section-content h2 {
+    font-size: 2.5rem;
+  }
+
+  .section.meat .flex {
+    flex-direction: column;
+  }
+
+  .section.bread .flex {
+    flex-direction: column;
+  }
+
+  .section.cheese .flex {
+    flex-direction: column;
+  }
+
+  .section.vegetables .flex {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .navbar ul {
+    display: none;
+  }
+
+  .navbar .logo-title {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  .landing-title__main-title {
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .section.vegetables .flex {
+    flex-direction: column;
+  }
+
+  .burgers-served-count,
+  .customers-served-count {
+    font-size: 4rem;
+    text-align: center;
+  }
 }
