@@ -9,7 +9,7 @@
 }
 
 :root {
-  --main-color: hsl(39, 36%, 43%);
+  --main-color: #957946;
 }
 
 html {
@@ -422,7 +422,7 @@ body {
   text-decoration: underline;
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 1200px) {
   .section.about-us {
     flex-direction: column;
   }
@@ -478,15 +478,23 @@ body {
     display: none;
   }
 
-  .navbar .logo-title {
-    margin: 0;
-    font-size: 1rem;
+  .navbar:hover {
+    background-color: transparent;
+    color: white;
+  }
+
+  .hamburger-icon {
+    display: block;
   }
 
   .landing-title__main-title {
     font-size: 2rem;
     width: 100%;
     text-align: center;
+  }
+
+  .navbar .logo-title {
+    margin: 0;
   }
 }
 
@@ -499,5 +507,9 @@ body {
   .customers-served-count {
     font-size: 4rem;
     text-align: center;
+  }
+
+  .navbar .logo-title {
+    font-size: 1rem;
   }
 }

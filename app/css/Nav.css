@@ -9,12 +9,75 @@
   cursor: pointer;
   position: absolute;
   top: 0;
+  left: 0;
   color: white;
 }
 
 .navbar:hover {
   background-color: white;
   color: black;
+}
+
+.mobile-nav {
+  position: fixed;
+  background-color: var(--main-color);
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: default;
+  z-index: 500;
+}
+
+.close-mobile-nav {
+  position: absolute;
+  font-size: 5rem;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  top: 0;
+  right: 15px;
+  line-height: 0.5;
+  margin: 1rem;
+  cursor: pointer;
+  color: white;
+}
+
+.close-mobile-nav:hover {
+  color: #e9d0a2;
+}
+
+.hamburger-icon {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 75px;
+  margin-right: 1rem;
+  fill: #fff;
+}
+
+.mobile-nav-ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mobile-nav-ul a {
+  font-size: 3rem;
+  display: block;
+  color: white;
+  padding: 2rem;
+  margin: 2rem 0 2rem 0;
+  border: 2px solid white;
+}
+
+.navbar .hamburger-icon:hover {
+  fill: #957946;
 }
 
 .navbar .logo-title {

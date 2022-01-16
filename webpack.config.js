@@ -16,7 +16,7 @@ module.exports = {
       { test: /\.svg$/i, use: ["@svgr/webpack"] },
     ],
   },
-  mode: "development",
+  mode: process.env.NODE_ENV === "production" ? "production" : "development",
   plugins: [
     new HTMLWebpackPlugin({
       template: "app/index.html",
